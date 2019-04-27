@@ -1,1 +1,2 @@
-书籍中的例子很多插件都是旧版本用法，在新版本环境中有诸多的坑，弃。
+# Flasky
+[Flask web开发:基于python的web应用开发实战](https://book.douban.com/subject/26274202/)
